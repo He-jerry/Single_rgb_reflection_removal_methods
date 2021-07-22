@@ -1,8 +1,8 @@
 # reflection_removal
 
-A collection of different global reflection removal methods
+A collection of different reflection removal methods
 
-### Single Image Methods
+### Single RGB
 
 * __Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images__, (2020)
 
@@ -47,8 +47,7 @@ A collection of different global reflection removal methods
 
 
 ### Polarization-based Methods
-* __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020)
-* [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/polarization-reflection-removal)
+* __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020) [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/polarization-reflection-removal)
 * __Reflection separation using a pair of unpolarized and polarized images__, (2019)
 * __ReflectNet: Separating Reflection and Transmission Images in the Wild__, (2018)
 [[pdf]](https://research.nvidia.com/sites/default/files/pubs/2018-09_Separating-Reflection-and/reflection_removal_eccv18.pdf) [[Code]](https://github.com/NVlabs/ReflectNet) 
