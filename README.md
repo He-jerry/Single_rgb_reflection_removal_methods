@@ -58,6 +58,11 @@ A collection of different Single RGB image reflection removal methods
 
 ### Single RGB(2021 Updated)
 
+* __Single Image Reflection Removal with Absorption Effect__, (2021)(CVPR2021)
+[[pdf]](http://ci.idm.pku.edu.cn/CVPR21d.pdf) 
+[[Code]](https://github.com/q-zh/absorption/)
+
+
 * __Single Image Reflection Removal with Edge Guidance, Reflection Classifier, and Recurrent Decomposition__, (2021)(WACV2021)
 [[pdf]](https://people.cs.nctu.edu.tw/~walon/publications/chang2021wacv.pdf) 
 [[Code]](https://github.com/JennaChangY/Reflection-Removal-with-Auxiliary-Techniques/)
@@ -79,4 +84,6 @@ A collection of different Single RGB image reflection removal methods
 * __Semantic Guided Single Image Reflection Removal__, (2019)
 [[pdf]](https://arxiv.org/abs/1907.11912) 
 [[code(No released training method)]](https://github.com/DreamtaleCore/SGRRN)
+
+
 
